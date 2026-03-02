@@ -2,10 +2,6 @@
 
 ### Apache Kafka + Apache Spark Structured Streaming + MLlib
 
-Author: **Omkar Pardeshi**\
-Course: DATA603 -- Platforms for Big Data Processing\
-Date: May 2025
-
 ------------------------------------------------------------------------
 
 ## 📌 Project Overview
